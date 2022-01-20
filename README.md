@@ -6,4 +6,7 @@ In addition to logging in it has most basic functionality like adding item to yo
 
 ```bash
 pip install -r requirements.txt
+python manage.py migrate
+python manage.py runserver
+
 ```
